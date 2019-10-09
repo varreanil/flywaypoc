@@ -5,8 +5,6 @@ from datetime import datetime
 
 import requests
 
-print("Hello")
-
 # Fisrt comment
 
 '''
